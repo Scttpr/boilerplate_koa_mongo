@@ -1,0 +1,9 @@
+{
+  "VERSION": "0.0.1",
+  "NODE_ENV": "dev",
+  "LOG_LEVEL": "error",
+  "HOST": "localhost",
+  "PORT": 3000,
+  "MONGO": "mongodb://localhost",
+  "DATABASE": "boilerplate_koa_mongo"
+}
